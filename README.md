@@ -41,19 +41,19 @@ product-scraper-books/
 ## ⚙️ How to Run
 
 1. Clone this repository:
-   git clone https://github.com/your-username/product-scraper-books.git
-   cd product-scraper-books
+  - git clone https://github.com/your-username/product-scraper-books.git
+  - cd product-scraper-books
 
 2. Create a virtual environment (optional but recommended):
-   python -m venv venv
-   venv\Scripts\activate  # Windows
-   source venv/bin/activate  # Mac/Linux
+  - python -m venv venv
+  - venv\Scripts\activate  # Windows
+  - source venv/bin/activate  # Mac/Linux
 
 3. Install the required packages:
-   pip install -r requirements.txt
+  - pip install -r requirements.txt
 
 4. Run the scraper:
-   python scraper.py
+  - python scraper.py
 
 5. Output files will be saved in the data/ folder.
 
